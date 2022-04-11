@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 	task_list = [
 		["Completed Task", true],
-		["Uncompleted Task", true]
+		["Uncompleted Task", false]
 	]
 
 task_list.each do |description, completed|
