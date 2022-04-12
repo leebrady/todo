@@ -7,6 +7,12 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 	task_list = [
 		["Sample Task", true],
+		["Another Sample Task", false],
+		["Sample Task", true],
+		["Another Sample Task", false],
+		["Sample Task", true],
+		["Another Sample Task", false],
+		["Sample Task", true],
 		["Another Sample Task", false]
 	]
 
