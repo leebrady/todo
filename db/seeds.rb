@@ -6,8 +6,8 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 	task_list = [
-		["Completed Task", true],
-		["Uncompleted Task", false]
+		["Sample Task", true],
+		["Another Sample Task", false]
 	]
 
 task_list.each do |description, completed|
